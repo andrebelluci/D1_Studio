@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "8bd21192-c2f7-727b-bb6a-3ae3f6cfc176",
+    "Name": "AndrDelCastleRealtyType",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1715786086000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "dd480139-a987-5fb1-33a4-c516c1572147",
+    "Name": "AndrCreateContactAgeDaysView",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1715785611000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
