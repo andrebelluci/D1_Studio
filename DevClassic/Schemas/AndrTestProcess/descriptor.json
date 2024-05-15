@@ -2,8 +2,9 @@
   "Descriptor": {
     "UId": "19c8b729-1983-4534-8fbc-51cbdce3df12",
     "Name": "AndrTestProcess",
-    "ModifiedOnUtc": "\/Date(1715697425000)\/",
+    "ModifiedOnUtc": "\/Date(1715741516000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "Test Process"
+    "Caption": "Test Process",
+    "DependsOn": []
   }
 }
