@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4bf96f05-cb4e-4ea4-b780-27048fb8840b",
+    "Name": "AndrRealtyTypeClassic",
+    "ModifiedOnUtc": "\/Date(1715746306000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Type (ClassicUI)",
+    "DependsOn": []
+  }
+}
