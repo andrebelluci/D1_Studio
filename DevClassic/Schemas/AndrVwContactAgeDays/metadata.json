@@ -84,6 +84,19 @@
           "A4": "d112950a-22f7-4abe-bc8b-e2722e0d5fbb",
           "A5": "1026574b-1357-4689-b492-74c65bd95bf5",
           "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        },
+        {
+          "UId": "31c0908f-2c10-c694-6401-6f4ec3f77806",
+          "A2": "AndrContact",
+          "A3": "d112950a-22f7-4abe-bc8b-e2722e0d5fbb",
+          "A4": "d112950a-22f7-4abe-bc8b-e2722e0d5fbb",
+          "A5": "1026574b-1357-4689-b492-74c65bd95bf5",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "E6": true,
+          "E20": true,
+          "E17": "AndrContactId",
+          "E18": "AndrContactName"
         }
       ],
       "D6": [],

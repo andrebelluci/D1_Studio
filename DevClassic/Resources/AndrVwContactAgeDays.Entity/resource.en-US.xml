@@ -5,6 +5,7 @@
 			<Item Name="Caption" Value="Contact Age in Days" />
 			<Item Name="Columns.AndrAgeDays.Caption" Value="Age Days" />
 			<Item Name="Columns.AndrBirthDate.Caption" Value="Birthdate" />
+			<Item Name="Columns.AndrContact.Caption" Value="Contact" />
 			<Item Name="Columns.AndrId.Caption" Value="Id" />
 			<Item Name="Columns.AndrName.Caption" Value="Name" />
 			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
