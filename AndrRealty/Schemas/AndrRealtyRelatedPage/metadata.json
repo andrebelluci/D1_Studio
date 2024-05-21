@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "f6dfd935-dd0c-4f05-a20a-642da4d661bf",
+      "A2": "AndrRealtyRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "73e32c93-5dfe-4cbd-baf7-9463a163e16f",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "0cd150f8-fe77-4372-8d7f-6041548917a3",
+            "PageSchemaUId": "ad2a40f0-5846-4fd7-ae45-580c35526d20",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

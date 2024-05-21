@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AndrRealty/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AndrRealty/Data/**" />
+		<Compile Remove="$(PkgPath)/AndrRealty/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AndrRealty/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AndrRealty/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AndrRealty/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AndrRealty/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AndrRealty/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AndrRealty/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AndrRealty/Resources/**" />
+		<None Remove="$(PkgPath)/AndrRealty/Assemblies/**" />
+		<None Remove="$(PkgPath)/AndrRealty/Data/**" />
+		<None Remove="$(PkgPath)/AndrRealty/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AndrRealty/Schemas/**" />
+		<None Remove="$(PkgPath)/AndrRealty/Resources/**" />
+  </ItemGroup>
+</Project>

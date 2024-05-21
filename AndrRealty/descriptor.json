@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "512a2c98-9e0a-4f38-82ac-e5c99917b90b",
+    "Name": "AndrRealty",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AndrRealty.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

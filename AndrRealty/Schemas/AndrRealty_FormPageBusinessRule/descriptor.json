@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab86a756-89ca-42f1-b174-c853b6049856",
+    "Name": "AndrRealty_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1715875033000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty form page (Business rules)",
+    "DependsOn": []
+  }
+}
